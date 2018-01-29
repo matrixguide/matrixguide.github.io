@@ -1,6 +1,6 @@
 ## Guide To Using Matrix on Disroot
 
-![alt text](https://en.wikipedia.org/wiki/Matrix_\(communication_protocol\)#/media/File:Matrix_logo1.png "")
+![alt text](https://matrix.org/blog/wp-content/uploads/2015/01/logo1.png "Matrix")
 
 This is a guide for Windows, Linux, MacOS and mobile.
 
