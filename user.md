@@ -32,4 +32,6 @@ This section will guide you through creating an account on Disroot.
 
 7. This is your user page! You can now proceed to the [Riot App](https://madfedora.github.io/mobile), [Windows](https://madfedora.github.io//windows) or [Linux](https://madfedora.github.io/linux) to login!
 
+![alt text](https://i.imgur.com/tmFEKA1.png "User Page")
+
 ## Back to [Index](https://madfedora.github.io/)
