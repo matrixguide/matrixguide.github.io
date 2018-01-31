@@ -1,7 +1,7 @@
 ## Install / Login
 
 1. Install Riot [Android](https://play.google.com/store/apps/details?id=im.vector.alpha) | [iOS](https://itunes.apple.com/us/app/vector.im/id1083446067) | [F-Droid](https://f-droid.org/packages/im.vector.alpha/)
-2. Fill in username and password ([Guide to create account](https://madfedora.github.io/user)), then check **Use custom server options (advanced)**
+2. Fill in username and password ([Guide to create account](user.md)), then check **Use custom server options (advanced)**
 
 ![alt text](https://i.imgur.com/Z23iYeq.png "login")
 
@@ -59,5 +59,5 @@ Every time you log out or sign in, the room will generate new key, meaning *you 
 
 3. To import, the steps are the same. Click **Import E2E room keys**, fill out the password and select location of **riot-keys.txt**
 
-### To see [tips and troubleshooting](https://madfedora.github.io/tips)
-### Back to [Index](https://madfedora.github.io/)
+### To see [tips and troubleshooting](tips.md)
+### Back to [Index](index.md)
