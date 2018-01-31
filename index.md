@@ -7,7 +7,7 @@
 This is a guide for Windows, Linux, MacOS and mobile.
 
 ## [Create an Account](user.md)
-## [Android/iOS](https://madfedora.github.io/mobile)
-## [Web Client](https://madfedora.github.io/web)
-## [Desktop](https://madfedora.github.io/desktop)
-## [Tips](https://madfedora.github.io/tips)
+## [Android/iOS](mobile.md)
+## [Web Client](web.md)
+## [Desktop](desktop.md)
+## [Tips](tips.md)
