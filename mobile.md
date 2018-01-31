@@ -23,3 +23,41 @@
 
 ## Verify Fingerprint
 
+To read, send or receive encrypted message you must first verify the keys of user. (and vice versa) They should exchange the fingerprints with you to confirm they are the person you communicate to. An example of fingerprint is ***APOCJNQLMB**, each fingerprint is unique and exact 10 characters*.
+
+1. In the room, select the option then **Room Details**
+
+![alt text](https://i.imgur.com/9Nrl1d8.png "Room Details")
+
+2. Click on **Show Device List**
+
+![alt text](https://i.imgur.com/tEwUrXw.png "Device List")
+
+3. When you are sure the person had the correct fingerprint, click **Verify**
+
+![alt text](https://i.imgur.com/c60sn70.png "Verify Devices")
+
+4. It will ask you to confirm the key, device ID and its fingerprint. When ready, click **I Verify That The Keys Match**
+
+![alt text](https://i.imgur.com/kwKo8Gq.png "Confirm ID")
+
+5. Now their key is verified. **You should see the lock** instead of the warning sigh. To *Unverify* click it again.
+
+![alt text](https://i.imgur.com/U4jR2yE.png "Verified")
+
+## Import / Export Room Key
+
+Every time you log out or sign in, the room will generate new key, meaning *you will not be able to read message from previous session **unless you have the E2E room key.***
+
+1. You can export the E2E key by go to **Settings**. Click **Export E2E room keys**
+
+![alt text](https://i.imgur.com/Y9c7Dfe.png "Export Room Keys")
+
+2. Fill in your password and click **Export**. It will download your key into Downloads folder with name **riot-keys.txt**
+
+![alt text](https://i.imgur.com/a8FiGo8.png "Export")
+
+3. To import, the steps are the same. Click **Import E2E room keys**, fill out the password and select location of **riot-keys.txt**
+
+### To see [tips and troubleshooting](https://madfedora.github.io/tips)
+### Back to [Index](https://madfedora.github.io/)
