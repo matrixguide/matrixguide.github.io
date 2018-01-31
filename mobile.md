@@ -1,5 +1,4 @@
-1. Install Riot [Android](https://play.google.com/store/apps/details?id=im.vector.alpha)/[iOS](https://about.riot.im/wp-content/themes/riot/img/link2.png)
-
+1. Install Riot [Android](https://play.google.com/store/apps/details?id=im.vector.alpha)/[iOS](https://itunes.apple.com/us/app/vector.im/id1083446067)
 2. Fill in username and password, then check **Use custom server options (advanced)**
 
 ![alt text](https://i.imgur.com/Z23iYeq.png "login")
