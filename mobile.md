@@ -15,3 +15,11 @@
 
 ## Add User
 
+1. Click the *Plus Circle at the right bottom*, click **Start Chat**
+
+2. Enter username you want to search, click the Plus to add user to chat
+
+![alt text](https://i.imgur.com/5Ps80wR.png "Start Chat")
+
+## Verify Fingerprint
+
