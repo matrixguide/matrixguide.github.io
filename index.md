@@ -6,18 +6,9 @@
 
 This is a guide for Windows, Linux, MacOS and mobile.
 
-## Android
-
-1. [Install Riot](https://play.google.com/store/apps/details?id=im.vector.alpha)
-
-2. Fill in username and password, then check **Use custom server options (advanced)**
-
-![alt text](https://i.imgur.com/Z23iYeq.png "login")
-
-3. Scroll down and fill in (**https://disroot.org** *Not matrix.disroot.org*):
-
-![alt text](https://i.imgur.com/8fbGPP1.png "Custom server")
-
-4. This is how the user page look like
-
-![alt text](https://i.imgur.com/OfebblI.png "User page")
+## [Create an Account](https://madfedora.github.io/user)
+## [Android/iOS](https://madfedora.github.io/mobile)
+## [Web Client](https://madfedora.github.io/web)
+## [Windows](https://madfedora.github.io/windows)
+## [Linux](https://madfedora.github.io/linux)
+## [Tips](https://madfedora.github.io/tips)
