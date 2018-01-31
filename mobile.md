@@ -23,7 +23,7 @@
 
 ## Verify Fingerprint
 
-To read, send or receive encrypted message you must first verify the keys of user. (and vice versa) They should exchange the fingerprints with you to confirm they are the person you communicate to. An example of fingerprint is ***APOCJNQLMB**, each fingerprint is unique and exact 10 characters*. *You should also verify the device ID.*
+To read, send or receive encrypted message you must first verify the keys of user. (and vice versa) They should exchange the fingerprints with you to confirm they are the person you communicate to. An example of fingerprint is ***APOCJNQLMB**, each fingerprint is unique and exact 10 characters*. *You should also verify the **device key***
 
 1. In the room, select the option then **Room Details**
 
@@ -33,7 +33,7 @@ To read, send or receive encrypted message you must first verify the keys of use
 
 ![alt text](https://i.imgur.com/tEwUrXw.png "Device List")
 
-3. When you are sure the person had the correct fingerprint and device ID, click **Verify**
+3. When you are sure the person had the **correct device ID and Key**, click **Verify**
 
 ![alt text](https://i.imgur.com/c60sn70.png "Verify Devices")
 
