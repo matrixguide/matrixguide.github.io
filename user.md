@@ -34,4 +34,4 @@ This section will guide you through creating an account on Disroot.
 
 ![alt text](https://i.imgur.com/tmFEKA1.png "User Page")
 
-## Back to [Index](https://madfedora.github.io/)
+## Back to [Index](index.md)
