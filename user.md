@@ -8,7 +8,7 @@ This section will guide you through creating an account on Disroot.
 
 ![alt text](https://i.imgur.com/AslFcNC.png "User registration")
 
-![alt text](https://i.imgur.com/S6IwR.png "verify")
+![alt text](https://i.imgur.com/eu5hiPx.png "verify")
 
 2. Fill out username and password. Click **Continue**
 
