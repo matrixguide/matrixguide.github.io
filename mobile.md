@@ -41,7 +41,7 @@ To read, send or receive encrypted message you must first verify the keys of use
 
 ![alt text](https://i.imgur.com/kwKo8Gq.png "Confirm ID")
 
-5. Now their key is verified. **You should see the lock** instead of the warning sigh. To *Unverify* click it again.
+5. Now their key is verified. **You should see the lock** instead of the warning sign. To *Unverify* click it again.
 
 ![alt text](https://i.imgur.com/U4jR2yE.png "Verified")
 
