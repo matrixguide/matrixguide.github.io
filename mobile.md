@@ -1,4 +1,6 @@
-1. Install Riot [Android](https://play.google.com/store/apps/details?id=im.vector.alpha)/[iOS](https://itunes.apple.com/us/app/vector.im/id1083446067)
+## Install / Login
+
+1. Install Riot [Android](https://play.google.com/store/apps/details?id=im.vector.alpha) | [iOS](https://itunes.apple.com/us/app/vector.im/id1083446067) | [F-Droid](https://f-droid.org/packages/im.vector.alpha/)
 2. Fill in username and password, then check **Use custom server options (advanced)**
 
 ![alt text](https://i.imgur.com/Z23iYeq.png "login")
@@ -10,3 +12,6 @@
 4. This is how the user page look like
 
 ![alt text](https://i.imgur.com/OfebblI.png "User page")
+
+## Add User
+
