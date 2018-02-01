@@ -18,7 +18,7 @@ This section will guide you through creating an account on Disroot.
 
 ![alt text](https://i.imgur.com/AYtwnRo.png "TOS")
 
-4. Fill out the security questions and answers. click **Continue**
+4. Fill out the security questions and answers. click **Save Answers**
 
 ![alt text](https://i.imgur.com/c99f2Ta.png "Questions")
 
