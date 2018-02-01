@@ -4,7 +4,7 @@ This section will guide you through creating an account on Disroot.
 
 **Note:** *You do not need an email to register for Disroot account. You should create a username that is easily identifyable by the members in the chat*
 
-1. [Go through here](https://user.disroot.org/pwn-disroot/public/). *Note: There are timeout limit on the page if there is no interection.* Click **New User Registration**
+1. [Go through here](https://user.disroot.org/pwn-disroot/public/). *Note: There are timeout limit on the page if there is no interaction.* Click **New User Registration**
 
 ![alt text](https://i.imgur.com/AslFcNC.png "User registration")
 
