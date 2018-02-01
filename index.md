@@ -1,4 +1,4 @@
-# Guide To Using Matrix on Disroot
+# Guide To Using Matrix
 
 ![alt text](https://matrix.org/blog/wp-content/uploads/2015/01/logo1.png "Matrix")
 
