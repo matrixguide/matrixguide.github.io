@@ -4,7 +4,7 @@
 
 [Matrix](https://matrix.org/) is a decentralized and free software platform for secure conference call and messeging. The client for Matrix is [Riot](https://riot.im/) which available on both Android and iOS and [Disroot Riot Web client](https://chat.disroot.org/).
 
-This is a guide for Windows, Linux, MacOS and mobile.
+This is a guide for Windows, Linux, MacOS and mobile. *You can now Download the guide and print your own at [here](matrixguide.pdf)*
 
 ## [Create an Account](user.md)
 ## [Android/iOS](mobile.md)
