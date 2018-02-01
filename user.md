@@ -30,7 +30,7 @@ This section will guide you through creating an account on Disroot.
 
 ![alt text](https://i.imgur.com/jdDWxTC.png "Account created")
 
-7. This is your user page! You can now proceed to the [Riot App](mobile.md), or [Desktop](desktop.md) to login!
+7. This is your user page! You can now proceed to the [Riot App](mobile.md), [Web client](web.md) or [Desktop](desktop.md) to login!
 
 ![alt text](https://i.imgur.com/tmFEKA1.png "User Page")
 
