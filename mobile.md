@@ -59,5 +59,4 @@ Every time you log out or sign in, the room will generate new key, meaning *you 
 
 3. To import, the steps are the same. Click **Import E2E room keys**, fill out the password and select location of **riot-keys.txt**
 
-### To see [tips and troubleshooting](tips.md)
-### Back to [Index](index.md)
+## Back to [Index](index.md)
