@@ -9,6 +9,7 @@
 
     Version 1.0 - guide created
     
-    Version 1.1 [sometime in future] - Add Riot over Tor guide.
+    Version 1.1 [planned] - Add Riot over Tor guide and fix PDF
+    
 
 ## Back to [Index](index.md)
