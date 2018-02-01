@@ -10,3 +10,5 @@
     Version 1.0 - guide created
     
     Version 1.1 [sometime in future] - Add Riot over Tor guide.
+
+## Back to [Index](index.md)
