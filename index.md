@@ -13,3 +13,16 @@ This is a guide for Windows, Linux, MacOS and mobile.
 ## [Web Client](web.md)
 ## [Desktop](desktop.md)
 ## [Tips](tips.md)
+
+### To clone this repository
+
+    git clone https://github.com/matrixguide/matrixguide.github.io
+    
+### To download this repository
+
+    https://github.com/matrixguide/matrixguide.github.io/archive/master.zip
+    
+### Contact:
+
+    matrixguide[at]keemail.me
+
