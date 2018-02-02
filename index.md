@@ -24,7 +24,7 @@ This is a guide for Windows, Linux, MacOS and mobile.
     
 ### To download this repository
 
-**https://github.com/matrixguide/matrixguide.github.io/archive/master.zip**
+**[https://github.com/matrixguide/matrixguide.github.io/archive/master.zip](https://github.com/matrixguide/matrixguide.github.io/archive/master.zip)**
     
 ### Contact:
 
