@@ -15,7 +15,7 @@ This is a guide for Windows, Linux, MacOS and mobile.
 ## [Create an Account](user.md) *[pdf](user.pdf)*
 ## [Android/iOS](mobile.md) *[pdf](mobile.pdf)*
 ## [Web Client](web.md) *[pdf](web.pdf)*
-## [Desktop](desktop.md) *([pdf](desktop.pdf)*
+## [Desktop](desktop.md) *[pdf](desktop.pdf)*
 ## [Tips](tips.md) 
 
 ### To clone this repository
