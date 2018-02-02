@@ -10,12 +10,10 @@
 
 This is a guide for Windows, Linux, MacOS and mobile.
 
-*(Full PDF currently unavailable due to technical problem, it will be fixed in v 1.1)*
-
-## [Create an Account](user.md) *[pdf](https://matrixguide.github.io/user.pdf)*
-## [Android/iOS](mobile.md) *[pdf](https://matrixguide.github.io/mobile.pdf)*
-## [Web Client](web.md) *[pdf](https://matrixguide.github.io/web.pdf)*
-## [Desktop](desktop.md) *[pdf](https://matrixguide.github.io/desktop.pdf)*
+## [Create an Account](user.md) _ *[pdf](https://matrixguide.github.io/user.pdf)*
+## [Android/iOS](mobile.md) _ *[pdf](https://matrixguide.github.io/mobile.pdf)*
+## [Web Client](web.md) _ *[pdf](https://matrixguide.github.io/web.pdf)*
+## [Desktop](desktop.md) _ *[pdf](https://matrixguide.github.io/desktop.pdf)*
 ## [Tips](tips.md) 
 
 ### To clone this repository
