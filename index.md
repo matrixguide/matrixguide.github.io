@@ -13,7 +13,7 @@ This is a guide for Windows, Linux, MacOS and mobile.
 *(Full PDF currently unavailable due to technical problem, it will be fixed in v 1.1)*
 
 ## [Create an Account](user.md) *[pdf](user.pdf)*
-## [Android/iOS](mobile.md) *[pdf][mobile.pdf]*
+## [Android/iOS](mobile.md) *[pdf](mobile.pdf)*
 ## [Web Client](web.md) *[pdf](web.pdf)*
 ## [Desktop](desktop.md) *([pdf](desktop.pdf)*
 ## [Tips](tips.md) 
